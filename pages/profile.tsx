@@ -3,7 +3,7 @@ import { Avatar, Table, Card, Row, Col, Badge } from "antd";
 import Image from "next/image";
 import Layout from "../components/Layout";
 
-import Background from "../public/Background.jpg";
+import Background from "../public/background.jpg";
 import React from "react";
 
 const columns = [
